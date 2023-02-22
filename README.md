@@ -1,6 +1,6 @@
-# Hi, I'm Bryan! <img src="https://bryanlais.github.io/img/amazing.png" style="width: 100px; height:100px; border-radius: 50%"> 
-<p align="center">
+<p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=bryanlais&hide=stars,issues&count_private=true&show_icons=true&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanlais&layout=compact&theme=tokyonight&hide=processing">
 </p>
 
 ```javascript
@@ -17,12 +17,6 @@ const bry = {
  challenge: "I am trying to write a brief synopsis of each and every day! I'm also making a song every few weeks :)"
 }
 ```
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanlais&layout=compact&theme=tokyonight&hide=processing">
-<br>
-<b> VIEWS: </b><br>
-<img src="https://profile-counter.glitch.me/bryanlais/count.svg" /> 
-</p>
 
 <!--
 **bryanlais/bryanlais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
