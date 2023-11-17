@@ -1,5 +1,4 @@
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=bryanlais&hide=stars,issues&count_private=true&show_icons=true&theme=tokyonight">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanlais&layout=compact&theme=tokyonight&hide=processing">
 </p>
 
