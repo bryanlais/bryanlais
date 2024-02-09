@@ -4,7 +4,7 @@ Hi 👋 My name is Bryan!
 Fullstack Web Developer/Software Engineer
 -----------------------------------------
 
-Hi, I'm a recent December 2023 Graduate with a BASc in Computer Science and Applied Mathematics from Stony Brook University. I have a passion for creating innovative and user-friendly web applications that solve real-world problems. I have gained valuable experience in web development, game development, robotics, and API integration through various internships and projects. Most recently, I led a team of three members in developing a healthcare social media platform for hospital patients and their loved ones at Soter Technologies, reducing costs by 25% and enhancing mobile device authentication. I also designed multiple interfaces and GUIs for the device shipping website, increasing user engagement by 20%. I am eager to apply my knowledge and skills to an entry-level position in the field of software engineering, where I can contribute to impactful and meaningful projects, collaborate with diverse and talented teams, and grow as a professional.
+I'm a recent December 2023 Graduate with a Bachelor of Science in both Computer Science and Applied Mathematics from Stony Brook University! I have a passion for creating innovative and user-friendly web applications that solve real-world problemsm and gained valuable experience in website development through various internships and projects.
 
 * 🌍  I'm based in New York!
 * 🖥️  See my portfolio at [bryanlai.com!](http://bryanlai.com)
