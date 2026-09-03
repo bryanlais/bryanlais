@@ -4,10 +4,11 @@ Hi 👋 I'm Bryan!
 Software Engineer / Fullstack Developer
 -----------------------------------------
 
-CS grad from Stony Brook (B.S. Computer Science + Applied Mathematics, Dec 2023), currently pursuing my M.S. in Computer Science at Georgia Tech with a specialization in Human-Computer Interaction. I'm passionate about building healthcare technology and user-centered web applications that make a real difference.
+I'm a recent Georgia Tech M.S. Computer Science graduate specializing in Human-Computer Interaction, and a Software Engineer at Soter Technologies, based in Brooklyn, NY. My work has been full-stack: building secure, usable systems end to end. Through my graduate coursework and side projects I've been studying health informatics and standards like FHIR, and I'm looking to bring that interest into hands-on healthcare technology work.
 
 * 🌍 Based in New York
-* 🎓 Georgia Tech OMSCS, HCI track (GPA: 3.9)
+* 🎓 Georgia Tech MS, HCI track (GPA: 3.9)
+* 🎓 Stony Brook B.S
 * 💼 Software Engineer at Soter Technologies
 * 🏥 Focused on healthcare systems, FHIR, and health informatics
 * 🖥️ Portfolio: [bryanlai.com](http://bryanlai.com)
