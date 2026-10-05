@@ -9,7 +9,7 @@ I'm a recent Georgia Tech M.S. Computer Science graduate specializing in Human-C
 * 🌍 Based in New York
 * 🎓 Georgia Tech MS, HCI track (GPA: 3.9)
 * 🎓 Stony Brook B.S
-* 💼 Software Engineer at Soter Technologies
+* 💼 Software Engineer at Altro Health
 * 🏥 Focused on healthcare systems, FHIR, and health informatics
 * 🖥️ Portfolio: [bryanlai.com](http://bryanlai.com)
 
